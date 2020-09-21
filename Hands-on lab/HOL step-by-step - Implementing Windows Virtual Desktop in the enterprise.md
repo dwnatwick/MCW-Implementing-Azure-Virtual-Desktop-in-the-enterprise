@@ -437,7 +437,7 @@ In this task we will be completing the steps on the Domain Controller in Azure u
 
 1.  From a domain joined computer, download and unzip the [AzFilesHybrid module](https://github.com/Azure-Samples/azure-files-samples/releases).
 
-    **Link address**: https//github.com/Azure-Samples/azure-files-samples/releases   
+    **Link address**: https://github.com/Azure-Samples/azure-files-samples/releases   
 
     ![Here is what you should see when you go to the github site for Azure samples](images/azfileshybriddownload.png "Azure samples")
 
